@@ -5,7 +5,7 @@ Aplicação full-stack feita por mim(Gabriel).
 
 Temos 2 ambientes diferentes
 
-## Back-End
+$ Back-End
  Tenologias principais utilizadas:
   * NodeJs
   * Typeorm
