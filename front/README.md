@@ -1,3 +1,7 @@
 # 🛠️ Abrir e rodar o projeto
 
-**yarn install**
+**Para rodar a aplicação Front**
+
+- `yarn install`: deverá fazer download das dependencias do ambiente.
+- `yarn install`: deverá fazer download das dependencias do ambiente.
+- `yarn install`: deverá fazer download das dependencias do ambiente.
