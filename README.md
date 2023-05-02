@@ -6,12 +6,12 @@ Feito para voce se cadastrar e cadastrar os seus contatos da melhor forma possiv
 
 Temos 2 ambientes diferentes
 
-#Back-End
-## Tenologias principais utilizadas:
+##Back-End
+ Tenologias principais utilizadas:
   * NodeJs
   * Typeorm
 
-#Front-End
-## Tecnologias principais utilizadas: 
+##Front-End
+ Tecnologias principais utilizadas: 
   * ReactJs
   * Typescript
