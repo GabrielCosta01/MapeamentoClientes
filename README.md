@@ -10,7 +10,7 @@ Back-End
   * NodeJs
   * Typeorm
 
-## Front-End
+Front-End
  Tecnologias principais utilizadas: 
   * ReactJs
   * Typescript
