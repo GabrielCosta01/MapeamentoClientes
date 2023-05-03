@@ -6,6 +6,8 @@
 
 - `.env.example`: aqui voce tera um exemplo de campos que DEVE ter para a aplicação rodar.
 
+- `yarn run typeorm migration:run -- -d ./src/data-source`: comando para rodar as migrations.
+
 - `yarn dev`: para fazer a aplicação rodar.
 
 ## ENDPOINTS
